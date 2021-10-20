@@ -1,0 +1,23 @@
+LIBRO RASPBERRY Y CURSO
+https://franciscomoya.gitbooks.io/taller-de-raspberry-pi/content/es/intro/rpi.html
+
+
+
+BLuetooth RBPi
+https://www.altaruru.com/configurar-bluetooth-desde-terminal-raspbian-debian-ubuntu-y-familia-xd/
+
+https://docs.google.com/presentation/d/1rUTUWMJQrqMUDHjEHkvaKUFYesIqDEjasfZucpLZxr4/edit#slide=id.g3ccc3842f4_0_135
+
+https://sites.google.com/a/cursoscapse.com/cese-7co2018_pcse/
+
+
+
+
+
+CONFIGURACION ECLIPSE EDUCIAA
+
+https://github.com/ciaa/firmware_v3/blob/master/documentation/firmware/eclipse/usage-es.md#11-abrir-proyecto-firmware_v3-en-eclipse-por-primera-vez
+
+
+
+
