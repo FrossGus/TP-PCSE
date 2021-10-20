@@ -10,13 +10,23 @@ https://docs.google.com/presentation/d/1rUTUWMJQrqMUDHjEHkvaKUFYesIqDEjasfZucpLZ
 
 https://sites.google.com/a/cursoscapse.com/cese-7co2018_pcse/
 
+COMANDOS HCITOOL Y HCICONFIG - GESTION BLUETOOTH
+https://snorriheim.atlassian.net/wiki/spaces/TechnicalNotes/pages/1179721/HCI+Tools+Bluez
+https://atareao.es/ubuntu/gestionar-el-bluetooth-desde-la-terminal-en-linux/
+https://www.jaredwolff.com/get-started-with-bluetooth-low-energy/
+https://www.argenox.com/library/bluetooth-low-energy/using-raspberry-pi-ble/
+https://programmerclick.com/article/34351506018/
 
-
+https://elinux.org/RPi_Bluetooth_LE
 
 
 CONFIGURACION ECLIPSE EDUCIAA
 
 https://github.com/ciaa/firmware_v3/blob/master/documentation/firmware/eclipse/usage-es.md#11-abrir-proyecto-firmware_v3-en-eclipse-por-primera-vez
+
+
+CONFIGURACION HC-06
+https://naylampmechatronics.com/blog/15_configuracion-del-modulo-bluetooth-hc-06-usando-comandos-at.html
 
 
 
