@@ -1,6 +1,11 @@
 LIBRO RASPBERRY Y CURSO
 https://franciscomoya.gitbooks.io/taller-de-raspberry-pi/content/es/intro/rpi.html
 
+VIDEO Y PANTALLA
+https://forums.raspberrypi.com/viewtopic.php?t=172399
+
+ARCHIVOS PYTHON
+https://decodigo.com/python-leer-un-archivo-de-texto
 
 
 BLuetooth RBPi
@@ -28,6 +33,12 @@ https://github.com/ciaa/firmware_v3/blob/master/documentation/firmware/eclipse/u
 CONFIGURACION HC-06
 https://naylampmechatronics.com/blog/15_configuracion-del-modulo-bluetooth-hc-06-usando-comandos-at.html
 
+
+PUERTO SERIE RASPBIAN
+https://www.sigmaelectronica.net/comunicacion-serial-raspberry-pi/
+https://programmerclick.com/article/7592239122/
+https://pyserial.readthedocs.io/en/latest/pyserial_api.html
+https://julioecheverri.wordpress.com/2018/02/26/comunicacion-serial-y-python/
 
 
 
